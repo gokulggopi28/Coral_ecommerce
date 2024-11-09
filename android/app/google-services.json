@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416712364542",
+    "project_id": "coralmachinetest",
+    "storage_bucket": "coralmachinetest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416712364542:android:26b5c7d18f2dc519f3f0af",
+        "android_client_info": {
+          "package_name": "com.coral.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_w21dKJ8actdv_Hrbed9P1kKnXaQHfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
